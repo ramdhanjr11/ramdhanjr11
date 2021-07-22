@@ -17,6 +17,7 @@ I love writing code with the S.O.L.I.D principle. I have enthusiasm for technolo
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" /></a>
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://seeklogo.com/images/J/java-logo-B158C160FE-seeklogo.com.png" /></a>
   </br>
+  </br>
   
 ### Github Statistic
 <p align="left">

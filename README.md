@@ -8,16 +8,17 @@ I love writing code with the S.O.L.I.D principle. I have enthusiasm for technolo
 - 💬 Ask me about Android native
 - ⚡ Fun fact: Fail Fast Succeed Faster
 
-#### How to reach me:
+### Reach me on:
 <a href="https://linkedin.com/in/ramdhanjr11" target="_blank"><img align="left" alt="ramdhanjr11 | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/ramdhan.official" target="_blank"><img align="left" alt="ramdhanjr11 | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-</br>
+<br>
+<br>
   
 ### Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" /></a>
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://seeklogo.com/images/J/java-logo-B158C160FE-seeklogo.com.png" /></a>
-  </br>
-  </br>
+  <br>
+  <br>
   
 ### Github Statistic
 <p align="left">

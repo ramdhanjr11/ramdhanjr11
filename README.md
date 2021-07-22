@@ -2,9 +2,9 @@
 
 I love writing code with the S.O.L.I.D principle. I have enthusiasm for technology, especially in Mobile Development. I manage my time optimally. I love to make projects in both Java or Kotlin language and I am able to work with a team.
 
-- 🏫 I’m still studying on University Of Muhammadiyah Sukabumi
+- 🏫 I’m still studying on University of Muhammadiyah Sukabumi
 - ⚒️ I'm an Informatics Engineering student
-- 🌱 I’m currently learning about Clean Architectures
+- 🌱 I’m currently learning about Clean Architecture
 - 💬 Ask me about Android native
 - ⚡ Fun fact: Fail Fast Succeed Faster
   

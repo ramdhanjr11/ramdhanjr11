@@ -21,3 +21,8 @@ I love writing code with the S.O.L.I.D principle. I have enthusiasm for technolo
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhanjr11&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/ramdhanjr11/">LinkedIn</a>
+- <a href="https://instagram.com/ramdhan.official">Instagram</a>
+- ramdhanjr690@gmail.com

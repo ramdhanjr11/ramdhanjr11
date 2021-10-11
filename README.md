@@ -6,7 +6,7 @@ I love writing code with the S.O.L.I.D principle. I have enthusiasm for technolo
 - ⚒️ I'm an Informatics Engineering student
 - 🌱 I’m currently learning about Clean Architecture
 - 💬 Ask me about Android native
-- ⚡ Fun fact: Fail Fast Succeed Faster
+- ⚡ Fun fact: Fail fast succeed faster
  
 ### Tech Stack
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)

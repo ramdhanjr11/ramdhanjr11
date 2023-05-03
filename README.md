@@ -29,5 +29,5 @@ I love writing code with the S.O.L.I.D principle. I have enthusiasm for technolo
 </p>
 
 ### Contribution Graph
-[![M Ramdhan Syahputra's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramdhanjr11&theme=react-dark)](https://github.com/ramdhanjr11/github-readme-activity-graph)
+[![M Ramdhan Syahputra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ramdhanjr11&theme=react-dark&area=true&hide_border=true)](https://github.com/ramdhanjr11/github-readme-activity-graph)
 

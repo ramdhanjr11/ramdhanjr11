@@ -1,33 +1,97 @@
-### Hi! 👋, I'am Ramdhan. 
+<h1 align="center">Hi 👋, I'm Ramdhan</h1>
+<h3 align="center">Mobile Developer | Flutter • Kotlin • Swift</h3>
 
-I love writing code with the S.O.L.I.D principle. I have enthusiasm for technology, especially in Mobile Development. I manage my time optimally and I am able to work with a team. I love to make projects such as android native app with Kotlin language and mobile app with Flutter framework.
-
-- 🏫 I'm a fresh graduate with a bachelor of computer science from University of Muhammadiyah Sukabumi
-- ⚒️ I'm an Informatics Engineering student
-- 🌱 I’m currently learning about CI/CD Flutter
-- 💬 Ask me about Android native and Flutter
-- ⚡ Fun fact: Fail fast succeed faster
- 
-### Tech Stack
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- 
-### Reach me on
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramdhan.official)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://linkedin.com/in/ramdhanjr11/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramdhanjr690@gmail.com)
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/ramdhanjr11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramdhanjr11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhanjr11&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;Flutter+%7C+Android+%7C+iOS;Clean+Architecture+Enthusiast;SOLID+Principle+Advocate&center=true&width=500&height=45">
 </p>
 
-### Contribution Graph
-[![M Ramdhan Syahputra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ramdhanjr11&theme=react-dark&area=true&hide_border=true)](https://github.com/ramdhanjr11/github-readme-activity-graph)
+---
 
+### 👨‍💻 About Me
+
+- 🎓 Bachelor of Computer Science — University of Muhammadiyah Sukabumi  
+- 📱 Mobile Developer with **3+ years experience**  
+- 🧠 Passionate about **Clean Architecture, SOLID Principles, and scalable apps**  
+- 🚀 Experienced with **Flutter, Kotlin, and Swift**  
+- 🔥 Currently exploring **CI/CD for Flutter & mobile automation**  
+
+💬 Ask me about:
+
+- Flutter Architecture
+- Android Native (Kotlin)
+- Mobile App Performance
+- App Store & Play Store Deployment
+
+⚡ **Fun fact:** Fail fast, succeed faster.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio,git,firebase,dart,java,typescript,vue,html,css"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ramdhanjr11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ramdhan.official">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ramdhanjr690@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ramdhanjr11&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhanjr11&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ramdhanjr11&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ramdhanjr11&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramdhanjr11&theme=tokyo-night&area=true&hide_border=true"/>
+
+</p>
